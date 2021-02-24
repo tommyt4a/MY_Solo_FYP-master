@@ -36,6 +36,8 @@ class HomeScreen extends React.Component{
                             <Text>飾物</Text>
                             <Text>女裝</Text>
                             <Text>男裝</Text>
+                            <Text>男裝</Text>
+
 
                         </View>
 
